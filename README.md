@@ -2,3 +2,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=gruvbox&border_radius=1.6&exclude_days=Sun%2CSat&card_width=497)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=gruvbox&border_radius=1.6&exclude_days=Sun%2CSat&card_width=497" alt="GitHub Streak" /></a>
