@@ -11,13 +11,15 @@ Projects:
 
 🛍️ E-commerce Platform - A feature-rich online store employing React, Redux, and Node.js for seamless user experiences.
 📚 E-Learning Website - An interactive platform leveraging MongoDB, Express.js, and React for an engaging learning environment.
+
 Tech Stack:
 
-Frontend: React, Redux, HTML, CSS, JavaScript
-Backend: Node.js, Express.js, MongoDB, PostgreSQL
-UI Frameworks: Bootstrap, Tailwind CSS
-Templating Engines: EJS, Handlebars
-Other Tools: TypeScript
+Frontend: React, Redux, HTML, CSS, JavaScript<br>
+Backend: Node.js, Express.js, MongoDB, PostgreSQL<br>
+UI Frameworks: Bootstrap, Tailwind CSS<br>
+Templating Engines: EJS, Handlebars<br>
+Other Tools: TypeScript<br>
+
 Additional Skills:
 
 🚀 Explored the basics of Microservices architecture.
