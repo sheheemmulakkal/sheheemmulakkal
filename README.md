@@ -3,7 +3,7 @@
 
 # I am Muhammed Sheheem
 
-MERN Stack Developer | Full Stack Engineer
+#### MERN Stack Developer
 
 Hey there! I'm Muhammed Sheheem, a passionate MERN stack developer with hands-on experience in crafting dynamic web applications. 🌐
 
