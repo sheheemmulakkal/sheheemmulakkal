@@ -5,7 +5,7 @@
 
 ### MERN Stack Developer
 
-Hey there! I'm Muhammed Sheheem, a passionate MERN stack developer with hands-on experience in crafting dynamic web applications. 🌐
+Hey there! I'm Muhammed Sheheem, a passionate MERN stack developer with hands-on experience in crafting dynamic web applications.
 
 
 ### Projects:
