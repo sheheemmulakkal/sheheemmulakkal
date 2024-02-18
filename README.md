@@ -2,7 +2,6 @@
 
 
 # I am Muhammed Sheheem
-
 ### MERN Stack Developer
 A dedicated MERN Stack Developer with a relentless passion for crafting seamless, efficient, and user-centric web applications.
 
