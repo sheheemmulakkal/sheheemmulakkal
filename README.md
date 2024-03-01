@@ -46,18 +46,6 @@ Published an npm module that helps to alter the text into appropriate cases.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-
-### Additional Skills   
-
-Explored the basics of Microservices architecture.   
-Familiar with Docker for containerization.   
-Dabbled in Kubernetes for orchestrating containerized applications.  
-
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
-![Jest](https://img.shields.io/badge/NATS.io-27AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white)
-
 <br><br> 
 
 
