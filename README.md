@@ -3,7 +3,7 @@
 
 # I am Muhammed Sheheem
 ### MERN Stack Developer
-A dedicated MERN Stack Developer with a relentless passion for crafting seamless, efficient, and user-centric web applications.
+A dedicated MERN Stack Developer with a relentless passion for crafting seamless, efficient, and user-centric web applications. 
 
 
 ### Projects:
@@ -12,7 +12,7 @@ A dedicated MERN Stack Developer with a relentless passion for crafting seamless
 A feature-rich online store employing React, Redux, and Node.js for seamless user experiences. <br>
 
 #### <ins>E-Learning Website </ins>   
-An interactive platform leveraging MongoDB, Express.js, and React for an engaging learning environment.
+An interactive platform leveraging MongoDB, Express.js, Node.js TypeScript and React for an engaging learning environment.
 
 #### <ins>Alter Case -  npm module</ins>
 Published an npm module that helps to alter the text into appropriate cases.
