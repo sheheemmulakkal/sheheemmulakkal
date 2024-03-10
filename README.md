@@ -17,10 +17,6 @@ An interactive platform leveraging MongoDB, Express.js, Node.js TypeScript and R
 #### <ins>Alter Case -  npm module</ins>
 Published an npm module that helps to alter the text into appropriate cases.
 
-
-### Tech Stack    
-
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
